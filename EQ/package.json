@@ -1,0 +1,26 @@
+{
+  "name": "jdroidfx",
+  "version": "1.0.0",
+  "description": "experince the power of music",
+  "main": "Equalizer.js",
+  "scripts": {
+    "test": "jdroid",
+    "jdroidfx": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/Mugamba669/"
+  },
+  "devDependences": {
+    "nodemon": "^2.0.7"
+  },
+  "keywords": [
+    "jdroidfx"
+  ],
+  "author": "Bruno Mugamba",
+  "license": "ISC",
+  "dependencies": {
+    "youtube-music-api": "^1.0.6"
+  }
+}
